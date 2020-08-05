@@ -1,0 +1,1 @@
+SELECT * FROM flashcard, app_user, category WHERE user_id = 4;

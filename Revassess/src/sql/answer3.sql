@@ -1,0 +1,1 @@
+SELECT * FROM app_user, category, study_set WHERE user_id = 5;

@@ -1,0 +1,1 @@
+INSERT INTO app_user VALUES (100, 'DavQ', 'passy', 'David', 'Q', 4);
